@@ -1,0 +1,47 @@
+body{
+ background-image: url(img/back.jpg);
+background-repeat: no-repeat;
+
+    margin: 0;
+}
+h1{
+    color: yellowgreen;
+    text-shadow: white;
+    margin-top: 20px;
+}
+.container{
+    margin-top: 50px;
+    box-shadow: 2px;
+    width: 70%;
+    margin-left: 19%;
+    /* overflow: auto; */
+    /* border: 1px solid black; */
+}
+.container img{
+    margin-top: 5px;
+width: 230px; 
+height: 200px;
+/* border: 1px solid black;   */
+box-shadow: 2px;
+}
+.container img:hover{
+    opacity: 0.9;
+}
+
+.card{
+    border-radius: 8px;
+    height: 24em;
+}
+.heading {
+    font-size: 25px;
+    margin-right: 25px;
+  }
+  .fa {
+    font-size: 20px;
+  }
+  .checked {
+    color: orange;
+  }
+
+
+
